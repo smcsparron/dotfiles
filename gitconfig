@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = shawnmc_28@hotmail.com
+	name = Shawn McSparron
